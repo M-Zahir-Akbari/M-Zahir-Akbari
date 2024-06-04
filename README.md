@@ -10,8 +10,11 @@
 <!-- About -->
 
 - 🔭 I’m currently working on [**Easy_Science**](https://github.com/M-Zahir-Akbari/easy_science)
+
 - 🌱 I’m currently studying **Software Engineering at Kabul University.**
+
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, Java, Python & Flutter.**
+
 - 📫 How to reach me: **mzaherakbari363@gmail.com**
 
 <!-- Contact info -->
