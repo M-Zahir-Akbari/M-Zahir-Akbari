@@ -8,9 +8,9 @@
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <!-- About -->
-- 🔭 I’m currently working on [**Easy_Science**](https://github.com/M-Zahir-Akbari/easy_science)
+- 🔭 I’m currently working at AWCC
 
-- 🌱 I’m currently studying **Software Engineering at Kabul University.**
+- 🌱 I’ve graduated in **Software Engineering** from **Kabul University.**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, Java, Python & Flutter.**
 
