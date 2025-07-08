@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-zahir-akbari&label=Profile%20views&color=0e75b6&style=flat" alt="m-zahir-akbari" /> </p>
 
 <!-- About -->
-- 🔭 I’m currently working at **AWCC**
+- 🔭 Currently a **CVM Intern** at **AWCC**
 
 - 🌱 I’ve graduated in **Software Engineering** from **Kabul University.**
 
