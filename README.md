@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Zahir "Akbari"</h1>
-<h3 align="center">Flutter and Web development enthusiast from Afghanistan</h3>
+<h3 align="center">Mobile App & Web App Developer | Flutter Enthusiast | CVM Product Assistant</h3>
 
 <!-- Profile view count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-zahir-akbari&label=Profile%20views&color=0e75b6&style=flat" alt="m-zahir-akbari" /> </p>
