@@ -13,6 +13,8 @@
 
 - 📫 How to reach me: **mzaherakbari363@gmail.com**
 
+- 📫 Or: **Zahir.Akbari.Dev@gmail.com**
+
 <!-- Contact info -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
